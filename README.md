@@ -8,7 +8,7 @@ The following diagram provides an overview of the solution's architecture:
 
 ![Architecture](media/architecture.png)
 
-## Project Resources
+## Projecssst Resources
 
 To deliver the solution effectively, a set of Azure resources is necessary. The following table outlines the required resources and their specific purposes for the project.
 
